@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.12.20
+# v0.12.21
 
 using Markdown
 using InteractiveUtils
@@ -614,9 +614,9 @@ plotspectra([λ_A,λ_L,λ_AL],["A","L","A_L"])
 # ╟─3a4fc858-647c-11eb-0a23-e7c8ec8348c6
 # ╟─2c2f9998-647b-11eb-3ddc-11f90d029e3c
 # ╟─12755762-688c-11eb-14a3-479950c1a3a1
-# ╠═ed36e1ac-696f-11eb-00b8-5d6cc89a731e
+# ╟─ed36e1ac-696f-11eb-00b8-5d6cc89a731e
 # ╟─8852442c-6481-11eb-281c-e53ac9aa06f3
-# ╠═cd77adb2-64bd-11eb-1700-8dc2f703553d
+# ╟─cd77adb2-64bd-11eb-1700-8dc2f703553d
 # ╟─85461a64-71b6-11eb-1153-01c5012c2d3d
 # ╟─ec9dea62-71b7-11eb-0c8d-ddbeaad47e00
 # ╟─8eae2aa4-71b8-11eb-1e08-eb530bbf3b44
@@ -632,12 +632,12 @@ plotspectra([λ_A,λ_L,λ_AL],["A","L","A_L"])
 # ╟─7bed953e-71be-11eb-0071-757715aab843
 # ╟─87d83dae-71be-11eb-1c98-e729954a844f
 # ╟─db509706-71be-11eb-35e4-d5823c530c2a
-# ╠═18f2455c-71bf-11eb-3360-81ef505644e4
+# ╟─18f2455c-71bf-11eb-3360-81ef505644e4
 # ╟─cb8b1fdc-71c1-11eb-1c5a-79d4213317f0
-# ╠═7aed1ca2-71c0-11eb-34e9-9b8c3f1d3445
-# ╠═4520e0e2-71c3-11eb-19b0-9763903df14c
-# ╠═abae667e-71c3-11eb-368b-cfd9e5295b7c
-# ╠═194ae372-71c4-11eb-16a6-0dc3f89736e7
+# ╟─7aed1ca2-71c0-11eb-34e9-9b8c3f1d3445
+# ╟─4520e0e2-71c3-11eb-19b0-9763903df14c
+# ╟─abae667e-71c3-11eb-368b-cfd9e5295b7c
+# ╟─194ae372-71c4-11eb-16a6-0dc3f89736e7
 # ╟─96d1f4f2-71c4-11eb-140d-1382f39fe066
 # ╟─a1f53f76-71c4-11eb-112f-0f9c00f74390
 # ╟─76a94e90-71c5-11eb-352b-d1cc8edee31e

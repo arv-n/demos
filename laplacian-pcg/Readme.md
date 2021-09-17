@@ -3,8 +3,7 @@
 This talk is for the Seminar on *Numerical Linear Algebra* course module taken at TU Berlin.
 The paper by Gergelits et al. you can access here for free: [arXiv version](https://arxiv.org/pdf/1809.03790.pdf) .
 
-![guide](readme.gif)
-
+![demo](docs/readme.gif)
 
 To use the presentation notebook interactively, you will need to have the Julia package [Pluto.jl](https://github.com/fonsp/Pluto.jl) installed. Along with the following dependencies:
 - LinearAlgebra
